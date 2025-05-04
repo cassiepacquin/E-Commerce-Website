@@ -416,6 +416,7 @@ main {
 .container-cart {
     display: grid;
     min-height: 100vh;
+    padding-bottom: 20px;
     grid-template:
         "nav" auto
         "header" auto
@@ -647,7 +648,6 @@ main {
         grid-template-rows: minmax(10px, min-content);
         display: flex;
         flex-direction: column;
-        padding-bottom: 20px;
     }
 
     .s-g-s-container-checkout {
