@@ -647,6 +647,7 @@ main {
         grid-template-rows: minmax(10px, min-content);
         display: flex;
         flex-direction: column;
+        padding-bottom: 20px;
     }
 
     .s-g-s-container-checkout {
