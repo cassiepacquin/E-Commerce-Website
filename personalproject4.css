@@ -805,13 +805,13 @@ no-preference) {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 500px) {
     .sound {
         display: block;
     }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (min-width: 501px) and (max-width: 1023px) {
     .sound {
         display: inline-block;
     }
