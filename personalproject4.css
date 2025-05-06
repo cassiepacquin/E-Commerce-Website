@@ -14,16 +14,6 @@ body {
     overflow-x: hidden;
 }
 
-body::before {
-    content: "Viewport: " attr(data-vw) "px";
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    background-color: yellow;
-    padding: 5px;
-    font-size: 14px;
-    z-index: 9999;
-}
 
 .container {
     display: grid;
