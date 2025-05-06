@@ -249,5 +249,12 @@
                 </div>
             </footer>
         </div>
+
+        <script>
+            document.body.setAttribute("data-vw", window.innerWidth);
+                window.addEventListener("resize", () => {
+                    document.body.setAttribute("data-vw", window.innerWidth);
+                });
+        </script>
     </body>
 </html>
