@@ -2097,11 +2097,11 @@ no-preference) {
         grid-column: 6;
     }
 
-    .touch {
+    .title-d-6 {
         display: flex;
         flex-direction: column;
         justify-content: flex-end;
-        height: 72%
+        height: 88%
     }
 
     .target-audience {
@@ -2118,7 +2118,7 @@ no-preference) {
     }
 
     .grey-square-big-1 img {
-        width: 60%;
+        width: 50%;
         height: 100%;
         object-fit: cover;
         justify-self: center;
@@ -2126,7 +2126,7 @@ no-preference) {
     }
     
     .grey-square-big-2 img {
-        width: 50%;
+        width: 40%;
         height: auto;
         object-fit: cover;
         justify-self: center;
