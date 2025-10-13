@@ -1,0 +1,11 @@
+<script>start("/Users/cassiepacquin/Desktop/Personal Project Nº4/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,448,"448 B",1747324467,"5/15/25, 11:54:27 AM");</script>
+<script>addRow("images","images",1,288,"288 B",1746290524,"5/3/25, 12:42:04 PM");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1748468506,"5/28/25, 5:41:46 PM");</script>
+<script>addRow("cart.html","cart.html",0,4519,"4.4 kB",1746290422,"5/3/25, 12:40:22 PM");</script>
+<script>addRow("checkout.html","checkout.html",0,5500,"5.4 kB",1746290486,"5/3/25, 12:41:26 PM");</script>
+<script>addRow("index.html","index.html",0,11274,"11.0 kB",1746507251,"5/6/25, 12:54:11 AM");</script>
+<script>addRow("Personal Project Nº4.code-workspace","Personal%20Project%20N%C2%BA4.code-workspace",0,43,"43 B",1743662037,"4/3/25, 2:33:57 AM");</script>
+<script>addRow("personalproject4.css","personalproject4.css",0,47644,"46.5 kB",1747337618,"5/15/25, 3:33:38 PM");</script>
+<script>addRow("README.md","README.md",0,1173,"1.1 kB",1746299052,"5/3/25, 3:04:12 PM");</script>
