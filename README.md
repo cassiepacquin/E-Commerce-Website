@@ -30,4 +30,4 @@ EchoPod Pro combines sleek visuals with user-friendly navigation to offer custom
 ## 🚀 Live Preview
 
 Check out the website here:
-[https://cassiepacquin.github.io/Personal-Project-N/](https://cassiepacquin.github.io/Personal-Project-N/)
+[https://cassiepacquin.github.io/E-Commerce-Website/](https://cassiepacquin.github.io/E-Commerce-Website/)
