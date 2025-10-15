@@ -2,7 +2,9 @@
 
 Welcome to **EchoPod Pro** — a premium website experience designed to showcase and sell luxury earphones to the public. This project focuses on delivering a clean, modern, and aesthetically pleasing interface that highlights the elegance and quality of the EchoPod Pro product line.
 
+
 🌐 **Live Site:** [EchoPod Pro](https://cassiepacquin.github.io/E-Commerce-Website)
+
 
 ---
 
